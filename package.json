@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Brendon1911/TodoListProject/issues"
   },
-  "homepage": "https://Brendon1911.github.com/TodoListProject",
+  "homepage": "https://Brendon1911.github.io/TodoListProject",
   "dependencies": {
     "gh-pages": "^1.2.0"
   }
